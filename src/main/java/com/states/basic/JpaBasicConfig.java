@@ -1,4 +1,4 @@
-package com.states;
+package com.states.basic;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
