@@ -1,4 +1,4 @@
-package com.states.jpa;
+package com.states;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
